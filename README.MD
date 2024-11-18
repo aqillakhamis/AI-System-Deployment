@@ -1,3 +1,5 @@
-# This is Repository used for AAT Training session with the topic of AI System Deployment
+# AAT Training - AI System Deployment
 
-This will be updated from time to time
+This repository will be updated from time to time. Thanks :octocat:
+
+NAK 
